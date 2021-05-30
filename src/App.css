@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  padding-bottom:30px;;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h4 {
+  margin-block-start: 0rem;
+  margin-block-end: 0.2rem;
+}
+
+button {
+  background-color: #282c34;
+  border-width: 0;
+  font-size:15px;
+  border-radius:2px;
+  color:#fff;
+}
+
+input {
+  width: 90%;
+}
+.App-header {
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-Content {
+  width:50vw;
+  padding:3px;
+  background-color: aliceblue;
+  margin:2.5px;
+}
+
+.App-Content-p{
+  font-size: 10px;
+}
