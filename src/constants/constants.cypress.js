@@ -1,4 +1,0 @@
-export const COUNT_CONTRACT_ADDRESS = '0xBeD0Df377D61b009cb609c7b22FBCbEE8EF9df83'; // Contact address in the main net
-export const ACCESS_KEY_ID = 'KASKVHQ9LXZHCLV1ZQRUHRU6';
-export const SECRET_ACCESS_KEY = '1tNlgvrM9iROOTvMpp1R2V05kk+7KhaDPz0EU7/V';
-export const CHAIN_ID = '8217'; // MAINNET 8217, TESTNET 1001
